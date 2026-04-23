@@ -122,7 +122,7 @@ mvn test
 * `/user/profile` – User profile page
 * `/user/contacts` – Contact list
 * `/user/contacts/add` – Add contact
-* `/api/contacts/{contactId}` – Get contact JSON
+* `/user/contacts/view/{contactId}` – Get contact JSON
 
 ---
 
